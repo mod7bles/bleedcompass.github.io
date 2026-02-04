@@ -40,7 +40,7 @@ questions =  [
     {"id": 38, "question": "molt is hitler", "effects": {"[auth": -1}},
     {"id": 39, "question": "dar is hitler", "effects": {"[auth": -1}},
     {"id": 40, "question": "brns is pol pot", "effects": {"[right": 1}},
-    {"id": 41, "question": "brns is running out of questions and getting lazier, "effects": {"[right": -1}},
+    {"id": 41, "question": "brns is running out of questions and getting lazier", "effects": {"[right": -1}},
     {"id": 42, "question": "yeah... both sides are bad actually...", "effects": {"[prog": -1}},
     {"id": 43, "question": "artifical intelligience must be abolished in order to maintain seperation of tennis and bird", "effects": {"[auth": 1}},
     {"id": 44, "question": "bleedcord could unfortnutately take off", "effects": {"[auth": 1}},
