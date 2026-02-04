@@ -29,7 +29,7 @@ questions =  [
     {"id": 27, "question": "due to alikards longer experience in life, we should followhis footsteps; he clearly knows what he is doing", "effects": {"[prog": -1}},
     {"id": 28, "question": "the hellp is the greatest band of all time", "effects": {"[auth": -2}},
     {"id": 29, "question": "the less you weigh the better you feel about yourself", "effects": {"[auth": -1}},
-    {"id": 30, "question": "dar is just a skinny worthless geek who sits at his pc all day": {"[auth": -2}},
+    {"id": 30, "question": "dar is just a skinny worthless geek who sits at his pc all day", "effects": {"[auth": -2}},
     {"id": 31, "question": "the hellp is the greatest band of all time", "effects": {"[auth": -1}},
     {"id": 32, "question": "deleting frags old server was a good thing, because bleed2026 would have never been formed", "effects": {"[prog": 1}},
     {"id": 33, "question": "radical jayism is a more achievable and overall a better ideology than moderate jaysim", "effects": {"[auth": 2}},
